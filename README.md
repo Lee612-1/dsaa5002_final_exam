@@ -13,7 +13,7 @@
 https://drive.google.com/drive/folders/1up0Gz-zIzpt73iaXHE_wmJY66GkzMRve?usp=sharing
 
 ## Directory structure
-![dict_structure.png](Pic%2Fdict_structure.png)
+![dict_structure.png](pic%2Fdict_structure.png)
     
     ├── ReadMe.md           // help file
 
